@@ -1,7 +1,6 @@
 <?php
     session_start();
     include "cabecalho.php";
-	
 ?>
 
 <?php 
@@ -72,7 +71,7 @@
 
 	<div>
 	<p class="text-center">
-    <a class="btn btn-outline-primary col-4 border-info" id="loginButton" href="../PHP/login.php"> Terminal Ouro Verde </a>
+    <a class="btn btn-outline-primary col-4 border-info" id="loginButton" href="Novas_pags/terminal_ouro.php"> Terminal Ouro Verde </a>
      </p>
 	 <p class="text-center">
     <a class="btn btn-outline-primary col-4 border-info" id="loginButton" href="../PHP/login.php">Terminal Central</a>
