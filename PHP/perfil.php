@@ -74,9 +74,9 @@
     <a class="btn btn-outline-primary col-4 border-info" id="loginButton" href="../PHP/terminal_ouro.php"> Terminal Ouro Verde </a>
      </p>
 	 <p class="text-center">
-    <a class="btn btn-outline-primary col-4 border-info" id="loginButton" href="../PHP/login.php">Terminal Central</a>
+    <a class="btn btn-outline-primary col-4 border-info" id="loginButton" href="../PHP/terminal_central.php">Terminal Central</a>
 	<p class="text-center">
-    <a class="btn btn-outline-primary col-4 border-info" id="loginButton" href="../PHP/login.php">Terminal Campo Grande</a>
+    <a class="btn btn-outline-primary col-4 border-info" id="loginButton" href="../PHP/terminal_campo.php">Terminal Campo Grande</a>
 </p>
 </p>
 <?php
